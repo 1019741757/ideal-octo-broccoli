@@ -1,0 +1,60 @@
+/*************************登录**********************************/
+
+.login-box {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  background-image: url(../../images/OFRI/background.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.login-content-form {
+  width: 500px;
+  max-width: 400px;
+  z-index: 100;
+  margin: 0 auto;
+  padding-top: 40px;
+  background-color: #fff;
+  padding: 2%;
+  margin-top: 10%;
+}
+
+.login-content-logo {
+  padding: 2% 5%;
+}
+
+.login-content-logo>span {
+  font-size: 23px;
+  font-family: Arial-Black;
+  color: rgba(255, 255, 255, 1);
+  line-height: 33px;
+  position: relative;
+  top: 3px;
+  left: 1%;
+  letter-spacing: 2px;
+}
+
+.input-box-input {
+  position: relative;
+}
+
+.input-box-input .el-input__inner {
+  padding-left: 10%;
+}
+
+.input-box-input span {
+  font-size: 18px;
+  position: absolute;
+  z-index: 55;
+  top: 7px;
+  left: 12px;
+}
+
+/**************************logo************************************/
+
+.navbar-fixed-top, .navbar-static-top img {
+  margin-top: 17px;
+  margin-left: 25px;
+  float: left;
+}

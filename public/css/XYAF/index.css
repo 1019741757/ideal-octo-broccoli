@@ -1,0 +1,140 @@
+/*************************登录**********************************/
+
+.login_admin {
+  width: 1036px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.login_admin .login_text {
+  float: left;
+  color: #fff;
+  margin-top: 8%;
+}
+
+.login_admin .login_text h3 {
+  font-size: 48px;
+  font-family: PingFangSC-Regular;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 1);
+  line-height: 67px;
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 1);
+  text-stroke: 1px rgba(255, 255, 255, 1);
+  margin-bottom: 20px;
+}
+
+.login_admin .login_text p {
+  font-size: 14px;
+  font-family: PingFangSC-Regular;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 1);
+  line-height: 20px;
+}
+
+.login-box {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  background-image: url(../../images/XYAF/background.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.login-content-form {
+  float: right;
+  width: 380px;
+  max-width: 380px;
+  z-index: 100;
+  margin: 0 auto;
+  padding-top: 40px;
+  background-color: #fff;
+  padding: 2% 4%;
+}
+
+.login-content-logo {
+  padding: 2% 5%;
+}
+
+.login-content-logo a img {
+  /* width:45px;
+ height:45px; */
+}
+
+.login-content-logo>span {
+  font-size: 23px;
+  font-family: Arial-Black;
+  color: rgba(255, 255, 255, 1);
+  line-height: 33px;
+  position: relative;
+  top: 3px;
+  left: 1%;
+  letter-spacing: 2px;
+}
+
+.input-box-input {
+  position: relative;
+}
+
+.input-box-input .el-input__inner {
+  padding-left: 13%;
+}
+
+.input-box-input span {
+  font-size: 18px;
+  position: absolute;
+  z-index: 55;
+  top: 5px;
+  left: 12px;
+}
+
+.el-tabs__active-bar {
+  background-color: #3081ED !important;
+}
+
+.svg-container .icon {
+  font-size: 22px;
+  color: #3081ED;
+}
+
+.ftCon-Wrapper {
+  height: 50px;
+  position: absolute;
+  bottom: 47px;
+  text-align: left;
+  width: 100%;
+  margin: 0 auto;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.ftCon-Wrapper p {
+  text-align: center;
+  font-size: 12px;
+  color: #a7a7a7;
+}
+
+.ftCon-Wrapper p a {
+  font-size: 14px;
+  color:rgba(255,255,255,1);
+  font-family: PingFangSC-Light;
+}
+
+/**************************logo************************************/
+
+.navbar-fixed-top, .navbar-static-top img {
+  /* max-width: 78px; */
+  margin-top: 7px;
+  margin-left: 50px;
+  float: left;
+  /*   width:145px;
+  height:30px; */
+}
+.navbar-fixed-top, .navbar-static-top {
+  background: #3081ED;
+}
+.el-menu--horizontal > .el-menu-item{
+  color:#000 !important;
+}
+.Monitoring_baidu .ibox-title{
+  background-color:#333;
+}
