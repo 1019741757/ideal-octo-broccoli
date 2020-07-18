@@ -74,7 +74,7 @@
     "eventemitter3": "1.x.x",
     "faye-websocket": "0.x.x",
     "jsonparse": "1.x.x",
-    "lodash": "3.x.x",
+    "lodash": "4.x.x",
     "object-assign": "4.x"
   },
   "description": "JSON-RPC 2.0 server and client library, with HTTP, TCP and Websocket endpoints",
