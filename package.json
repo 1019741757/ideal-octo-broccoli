@@ -26,7 +26,7 @@
     "less-loader": "^4.1.0",
     "moment": "^2.22.1",
     "morgan": "~1.7.0",
-    "node-sass": "^4.9.2",
+    "node-sass": "^7.0.0",
     "request": "^2.81.0",
     "serve-favicon": "~2.3.2",
     "silly-datetime": "^0.1.2",
