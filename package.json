@@ -24,7 +24,7 @@
     "json-rpc2": "^1.0.2",
     "less": "^3.0.1",
     "less-loader": "^4.1.0",
-    "moment": "^2.22.1",
+    "moment": "^2.29.4",
     "morgan": "~1.7.0",
     "node-sass": "^4.9.2",
     "request": "^2.81.0",
